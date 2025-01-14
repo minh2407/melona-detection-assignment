@@ -94,7 +94,6 @@ Overall, the trained CNN model demonstrates promising results in accurately clas
 - PIL (Pillow): Python Imaging Library, used for loading and manipulating images.
 - Augmentor: A library for data augmentation, used for generating augmented images.
 - Seaborn: A statistical data visualization library based on Matplotlib, used for creating bar plots.
-- Google Colab: An online platform for writing and executing Python code, often used for data analysis and machine learning.
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
