@@ -66,19 +66,15 @@ Figure 2: Model accuracy and loss during training and validation.
    - The final model was able to accurately classify test images from the dataset.
    - An example prediction was provided, where the actual class "basal cell carcinoma" was correctly identified as the predicted class.
 
-6. **Google Colab Utilization**:
-   - Google Colab was used to facilitate the entire process, from loading the dataset and preprocessing images to training the CNN model.
-   - The cloud-based environment of Google Colab allowed seamless access to resources, eliminating potential hardware constraints.
-
-7. **Class Imbalance Handling**:
+6. **Class Imbalance Handling**:
    - The class imbalances in the dataset were addressed using data augmentation techniques, specifically rotation augmentation.
    - Data augmentation helped improve model performance by generating additional diverse samples for each class.
 
-8. **Model Evaluation**:
+7. **Model Evaluation**:
    - The model's ability to accurately classify images and its strong validation performance indicate its potential utility in assisting dermatologists with melanoma detection.
    - Continued evaluation and potential fine-tuning of the model could further enhance its performance and clinical relevance.
    
-Overall, the trained CNN model demonstrates promising results in accurately classifying skin cancer images, with effective handling of class imbalances and avoidance of overfitting. The use of Google Colab streamlined the development process and allowed for efficient experimentation. Further refinement and evaluation could contribute to the model's practical applicability in dermatological diagnoses.
+Overall, the trained CNN model demonstrates promising results in accurately classifying skin cancer images, with effective handling of class imbalances and avoidance of overfitting.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
